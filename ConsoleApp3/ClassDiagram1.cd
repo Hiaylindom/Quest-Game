@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KP.Program" Collapsed="true">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="KP.Program.Character" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="KP.Program.Hero" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="KP.Program.Villain" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="KP.Program.NPC" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

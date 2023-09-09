@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Курсач\KP\ConsoleApp3\bin\Debug\net45\ConsoleApp3.exe
+C:\Users\Admin\Desktop\Курсач\KP\ConsoleApp3\bin\Debug\net45\ConsoleApp3.pdb
+C:\Users\Admin\Desktop\Курсач\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Курсач\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курсач\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Курсач\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Курсач\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.exe
+C:\Users\Admin\Desktop\Курсач\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.pdb
+C:\Users\Admin\Desktop\KP\ConsoleApp3\bin\Debug\net45\ConsoleApp3.exe
+C:\Users\Admin\Desktop\KP\ConsoleApp3\bin\Debug\net45\ConsoleApp3.pdb
+C:\Users\Admin\Desktop\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.exe
+C:\Users\Admin\Desktop\KP\ConsoleApp3\obj\Debug\net45\ConsoleApp3.pdb
